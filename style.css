@@ -18,6 +18,8 @@ height: 200px;
 .cabecalho__menu-item{
     font-size: 17px;
     color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
     display: inline;
     margin: 0px 0px 0px 20px;
     
