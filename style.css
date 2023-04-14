@@ -33,6 +33,7 @@ height: 200px;
     justify-content: center;
     align-items: center;
     color: white;
+    border-radius: 40px;
 }
 
 .escola__imagem{
