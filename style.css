@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around; 
     align-items: center; 
-    background-color: rgb(51, 91, 155);
+    background-color: whitesmoke;
 }
 
 .cabecalho-imagem{
@@ -16,7 +16,9 @@ height: 200px;
 }
 
 .cabecalho__menu-item{
+    font-size: 17px;
+    color: black;
     display: inline;
     margin: 0px 0px 0px 20px;
-    color: aliceblue;
+    color: whitesmoke;
 }
