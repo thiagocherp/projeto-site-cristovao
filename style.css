@@ -3,6 +3,7 @@
     justify-content: space-around; 
     align-items: center; 
     background-color: whitesmoke;
+    border-left: 200px;
 }
 
 .cabecalho-imagem{
