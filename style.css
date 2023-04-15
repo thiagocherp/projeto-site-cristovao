@@ -22,7 +22,7 @@ height: 200px;
 
 .cabecalho__menu-item{
     font-size: 21px;
-    color: black;
+    color: white;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
     display: inline;
