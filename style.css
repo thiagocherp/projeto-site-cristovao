@@ -7,7 +7,10 @@
     justify-content: space-around; 
     align-items: center; 
     background-color: whitesmoke;
-    border-right: 50px;
+    font-size: 21px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 .cabecalho-imagem{
