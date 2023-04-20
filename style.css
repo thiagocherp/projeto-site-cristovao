@@ -4,14 +4,14 @@
     color: white;
 }
 
-.corpo{
+.corpo {
     background-color: black;
 }
 
 .cabecalho {
     display: flex;
-    justify-content: space-around; 
-    align-items: center; 
+    justify-content: space-around;
+    align-items: center;
     background-color: whitesmoke;
     font-size: 21px;
     color: white;
@@ -21,27 +21,28 @@
     border-bottom-left-radius: 30%;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
 
-width: 200px;
-height: 200px;
+    width: 200px;
+    height: 200px;
 }
 
-.cabecalho-tituloh1 , .cabecalho__menu {
+.cabecalho-tituloh1,
+.cabecalho__menu {
     display: inline;
 }
 
-.cabecalho__menu-item{
+.cabecalho__menu-item {
     font-size: 21px;
     color: white;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
     display: inline;
     margin: 0px 0px 0px 20px;
-    
+
 }
 
-.escola{
+.escola {
     margin: 20px;
     padding: 20px;
     background-color: slategray;
@@ -52,31 +53,44 @@ height: 200px;
     border-radius: 40px;
 }
 
-.escola__imagem{
+.escola__imagem {
     margin: 20px;
     width: 900px;
     height: auto;
 }
-.escola__imagem{
+
+.escola__imagem {
     margin: 10px;
-    
+
 }
-.escola__titulo{
+
+.escola__titulo {
 
     text-align: center;
 }
-.escola__paragrafo{
+
+.escola__paragrafo {
     text-align: justify;
 }
 
-.cabecalho__menu-texto{
+.cabecalho__menu-texto {
     font-size: 55px;
 
 }
 
-.professores{
+.professores {
     background-color: slategray;
     border-radius: 40px;
     margin: 20px;
     padding: 20px;
 }
+
+.professores__div {
+    text-align: center;
+    }
+    
+.professores__div-imagem{
+    width: 120px;
+    height: auto;
+    
+    }
