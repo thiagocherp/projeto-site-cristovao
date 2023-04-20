@@ -73,3 +73,10 @@ height: 200px;
     font-size: 55px;
 
 }
+
+.professores{
+    background-color: slategray;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 20px;
+}
