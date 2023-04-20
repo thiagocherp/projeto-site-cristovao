@@ -45,7 +45,7 @@
 .escola {
     margin: 20px;
     padding: 20px;
-    background-color: slategray;
+    background-color: #273447;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +79,7 @@
 }
 
 .professores {
-    background-color: slategray;
+    background-color: #273447;
     border-radius: 40px;
     margin: 20px;
     padding: 20px;
