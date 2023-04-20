@@ -34,11 +34,10 @@ height: 200px;
 .cabecalho__menu-item{
     font-size: 21px;
     color: white;
-    margin: 16px 16px;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
     display: inline;
-    
+    margin: 0px 0px 0px 20px;
     
 }
 
