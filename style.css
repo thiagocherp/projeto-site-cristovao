@@ -94,6 +94,8 @@ body{
 
 .professores {
     display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 33% 33% 33%;
     font-family: 'Sono', sans-serif;
     background-color: #273447;
     border-radius: 40px;
