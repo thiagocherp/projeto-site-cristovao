@@ -101,6 +101,8 @@ body{
     border-radius: 40px;
     margin: 20px;
     padding: 20px;
+    justify-items: center;
+    gap: 20px
 }
 
 .professores__div {
