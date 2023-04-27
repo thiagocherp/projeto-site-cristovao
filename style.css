@@ -39,6 +39,11 @@ body{
     display: inline;
 }
 
+.cabecalho__menu-texto{
+    margin: 50px 50px 50px 20px;
+    padding: 50px;
+
+}
 .cabecalho__menu-item {
     font-size: 21px;
     color: white;
